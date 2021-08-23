@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @damitagomez23
 - I’m a recent grad from the University of Washington (UW) with a degree in Informatics - Data Science
 - I use this space primarily for school projects and side activities.
-- Since hosting a portfolio website costs money, I will be using this README file to list and summarize my coding projects. This is also a space for my own record keeping. Feel free to click on the links below and take a look. Everything listed below is ordered by time.
+- Since hosting a portfolio website costs money, I will be using this README file to list and summarize my coding projects. This is also a space for my own record keeping. Feel free to click on the links below and take a look.
 
 # Projects
 
