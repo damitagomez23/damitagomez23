@@ -36,7 +36,7 @@
 - Everything was coded using D3, other JavaScript components, and markdown.
 - Click [here](https://observablehq.com/@damitagomez/music-trends) to view my portion of the project and what I plan to build off of.
 
-## UW Pokemon Club Website
+## UW Pokemon Club Website - Winter 2020
 - Title: *UW Pokemon Club*
 - This was a website that I developed with another student for UW's Pokemon Club.
 - It has club announcements and an interactive calendar that my partner and I constructed.
