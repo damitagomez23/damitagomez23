@@ -7,7 +7,7 @@
 
 # Projects
 
-## University of Washington Informatics Capstone - Spring 2021
+## UW Informatics Capstone - Spring 2021
 - Title: *Wander: A Guide to Exploring Seattle*
 - A website that allows users to learn more about restaurants in Seattle's International District from the perspective of the business owner and to hear the stories behind their food (i.e., not Yelp).
 - Here is a link to the [project summary](https://ischool.uw.edu/capstone/projects/2021/wander-guide-exploring-seattle) on the capstone website since the website itself if no longer available due to temporary domain hosting for the course of the project.
