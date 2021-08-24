@@ -20,11 +20,13 @@
 - As a group, we looked at taking data from the World Health Organization and researched mental health from multiple perspectives outside of the data to look for the best ways to answer this question for our analysis.
 - Click [here](https://phung-phu.shinyapps.io/INFO478-Project-Group4/) to view the whole project.
 
+<!--
 ## UW INFO 478 Health Modelling Practice - Spring 2021
 - Title: *Assignment 3* (sorry, this was not a major project, so there's not an official title)
 - This project was for an assignment for my population health informatics class to practice creating ShinyApps and using datasets for topic research.
 - For the record, I am not an expert in population health and cannot speak to the accuracy of the models. These were my best efforts of prediction based on the data I had and what I was learning at the time.
 - Click [here](https://dgomez23.shinyapps.io/assignment-3-damitagomez23/) to view the final product.
+-->
 
 ## UW INFO 474 Final Project Continuation - Winter 2021
 - Title: *Using Billboard to Data to Look at Changes in Music and Music Consumption Over Time*
@@ -33,6 +35,13 @@
 - The code for this project is not available in GitHub but can readily be seen in Observable below the project content in code blocks.
 - Everything was coded using D3, other JavaScript components, and markdown.
 - Click [here](https://observablehq.com/@damitagomez/music-trends) to view my portion of the project and what I plan to build off of.
+
+## UW Pokemon Club Website
+- Title: *UW Pokemon Club*
+- This was a website that I developed with another student for UW's Pokemon Club.
+- It has club announcements and an interactive calendar that my partner and I constructed.
+- It utilizes a Firebase database in a React app.
+- The club has fallen apart, but [the website](https://info340d-au18.github.io/project-stluongxd/) is still running with a fully functioning calendar! 🥴
 
 ## UW INFO 201 Final Project - Winter 2019
 - Title: *Compare Universities*
